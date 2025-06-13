@@ -1,5 +1,14 @@
 <h1>Hi 👋, I'm Maria Stavropoulou</h1>
-<p>A passionate frontend developer from Athens</p>
+<p>A passionate developer and MSc student in Informatics and Networks at University of Ioannina</p>
+
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+  <li>🔬 Currently conducting research for my MSc Thesis: <strong>"Developing an algorithm for the detection of Dementia Types from EEG signals"</strong>.</li>
+  <li>🏥 Analyzing biosignals (EEG) with Machine Learning (k-Means, Hierarchical Clustering, etc.).</li>
+  <li>🛡 Working with WEKA for data clustering and CSV data processing.</li>
+  <li>👥 Experience with multimodal data (EEG, video, audio) and their collection and processing.</li>
+  <li>💼 Educational Researcher — organizing and implementing field research in schools.</li>
+  <li>✨ Passionate about developing software with a strong social impact in health care and education.</li>
+</ul>
 
 <hr>
 
@@ -7,10 +16,6 @@
   <summary>Open profile</summary>
 
   <br>
-
-  <p align="middle"><img src="https://komarev.com/ghpvc/?username=daenges&label=Visits&color=DD6387&style=flat" alt="daenges"><p>
-
-  <hr>
 
   <br>
 
@@ -47,44 +52,19 @@
 
   <h3 align="center"><b>Hobby Projects</b></h3>
 
-  <p align="center">
-    <a href="https://github.com/MCCTeam/Minecraft-Console-Client"><img src="https://raw.githubusercontent.com/MCCTeam/Minecraft-Console-Client/master/MinecraftClient/Resources/AppIcon.ico" alt="MCC" width="45" height="45"> </a> 
-    <a href="https://manjaro.org"><img src="https://manjaro.org/img/logo.svg" alt="manjaro" width="40" height="40"> </a> 
-    <a href="https://www.youtube.com/channel/UCg4XD4NzzbRNTAUoKKEa4Hw"><img src="https://www.freepngimg.com/thumb/youtube/58961-area-text-brand-trademark-youtube-metroui-alt.png" alt="Youtube" width="45" height="45"> </a>
-  </p>
-
   <br>
 
   <details>
-    <summary align="center">:chart_with_upwards_trend: Catistics :chart_with_downwards_trend:</summary>
-
-    <br>
-
-    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=daenges&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daenges"><img src="https://github-readme-stats.vercel.app/api?username=daenges&show_icons=true&theme=dracula&cache_seconds=1800&locale=en" alt="daenges"> </p>
-
-    <p><a href="https://github.com/Daenges"><img src="https://activity-graph.herokuapp.com/graph?username=daenges&bg_color=282a36&color=dd6387&line=dd6387&point=ffffff&area=false&hide_border=false" alt="Daenges activity graph"></a></p>
-
-  </details>
-
-  <hr>
-
-  <details>
-    <summary align="center">:trophy: Trophies :trophy:</summary>
-
-    <p align="center"><a href="https://github-profile-trophy.vercel.app/?username=daenges&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=daenges&theme=dracula" alt="daenges trophies"></a></p>
-
-  </details>
-
+   
   <hr>
 
   <details>
     <summary align="center"><b>You've scrolled very far. Take some rest and read a joke:</b></summary>
-
-    <br>
-
-    <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=dracula&borderColor=white" alt="README Jokes">
-    </p>
-
+ <p align="left"> 
+    🤖 Love is like WEKA—without preprocessing, it just doesn’t work.</li> <br> <br>
+    🧠 My grandma thought WEKA was a bird that eats.  <br> 👉 I told her, "Yeah, but this one eats features and spits out classifications."
+  </p>
+   
   </details>
 
 </details>
